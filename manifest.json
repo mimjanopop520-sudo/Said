@@ -1,0 +1,16 @@
+{
+  "short_name": "Said Prime",
+  "name": "Said Prime - Gaming HUD & Aim Controls",
+  "icons": [
+    {
+      "src": "/src/assets/images/said_prime_logo_1793269078698.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050000",
+  "theme_color": "#8b0000",
+  "display": "standalone",
+  "orientation": "portrait"
+}

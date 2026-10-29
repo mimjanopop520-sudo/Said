@@ -1,0 +1,6 @@
+{
+  "name": "Said Prime",
+  "description": "Said Prime high-performance gaming HUD and aim simulation layout with dynamic red lightning storm FX, Aim Lock, and Aimbot controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
